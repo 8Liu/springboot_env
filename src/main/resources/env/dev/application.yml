@@ -1,0 +1,4 @@
+server:
+  context-path: /springboot_env
+  servlet-path: "*.do"
+  port: 8080

@@ -1,0 +1,4 @@
+server:
+  servlet:
+    context-path: /springboot_env
+  port: 8081
